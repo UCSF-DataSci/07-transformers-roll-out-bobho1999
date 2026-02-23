@@ -6,7 +6,7 @@
     "confidence": 0.85
   },
   {
-    "diagnosis": "anaphylaxis/severe systemic reaction",
+    "diagnosis": "anaphylaxis",
     "medications": [],
     "lab_values": {},
     "confidence": 0.9
