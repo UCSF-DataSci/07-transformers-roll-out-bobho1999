@@ -6,7 +6,7 @@
     "confidence": 0.85
   },
   {
-    "diagnosis": "anaphylaxis due to onion consumption",
+    "diagnosis": "anaphylaxis/severe systemic reaction",
     "medications": [],
     "lab_values": {},
     "confidence": 0.9
